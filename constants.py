@@ -1,0 +1,7 @@
+NORTH = 'North'
+WEST = 'West'
+SOUTH = 'South'
+EAST = 'East'
+TURN_LEFT = 'L'
+TURN_RIGTH = 'R'
+GO_straight = 'W'
